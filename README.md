@@ -1,2 +1,2 @@
-# githupworkshop
+# githubworkshop
 Demo of github pages
