@@ -1,3 +1,7 @@
+---
+Title: BMC Test
+---
+
 # Bryn Mawr College
 ![BMC lantern](i-dGmkqmx.png)
 
