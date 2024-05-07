@@ -1,4 +1,4 @@
 #Title
-![A pink axolotl in a tank](https://alicemcgrath.digital.brynmawr.edu/simple-site/images/janeway.jpg)
+![BMC lantern](i-dGmkqmx.png)
 
 [Bryn Mawr College](http://www.brynmawr.edu)
